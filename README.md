@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlwlwon)](https://solved.ac/wlwlwon)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=selfm)](https://solved.ac/selfm)
 <!--
 **wlwlwon/wlwlwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
